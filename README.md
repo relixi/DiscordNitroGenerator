@@ -2,7 +2,7 @@
 This file `.exe` allows you to create bot that generates codes, you can use any bot for this. 
 --
 ## instructions
-* 1.- go to https://discord.com/developers/applications/
+* 1.- go to [discord.com/deveopers](https://discord.com/developers/applications/)
 * 2.- create a new application
 * 3.- add bot in u server
 * 4.- look at bot and "copy"
